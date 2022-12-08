@@ -1,3 +1,7 @@
+/*
+ * File name: 4-puts.c
+ * Author: Noah Adeshina
+ */
 #include <stdio.h>
 
 /**
