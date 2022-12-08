@@ -1,15 +1,16 @@
 /*
- * File name: 4-puts.c
+ * File: 4-puts.c
  * Author: Noah Adeshina
  */
+
 #include <stdio.h>
 
 /**
- * C program that Prints "Programming is like building a multilingual
+ * main - Prints "Programming is like building a multilingual
  *                puzzle, followed by a new line.
  *
+ * Return: 0.
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
