@@ -4,7 +4,6 @@
  *
  */
 
-#include "main.h"
 #include <stdio.h>
 
 /**
@@ -20,8 +19,8 @@ int main(void)
 
 	for (c = 0; c < 8; c++)
 	{
-		_putchar(arr[c]);
+		putchar(arr[c]);
 	}
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
