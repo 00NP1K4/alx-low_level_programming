@@ -1,6 +1,6 @@
 /*
  * File: 10-add.c
- * Author: Noah Adeshina 
+ * Author: Noah Adeshina
  */
 
 #include "main.h"
