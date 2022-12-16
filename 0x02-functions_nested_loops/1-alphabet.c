@@ -1,4 +1,3 @@
-
 /*
  * File: 1-alphabet.c
  * Author: Noah Adeshina
@@ -8,7 +7,7 @@
 
 /*
  * 
- * print_alphabet - prints the alphabet in lowercase, followed by a new line.
+ * print_alphabet: prints the alphabet in lowercase, followed by a new line.
  *
  */
 
